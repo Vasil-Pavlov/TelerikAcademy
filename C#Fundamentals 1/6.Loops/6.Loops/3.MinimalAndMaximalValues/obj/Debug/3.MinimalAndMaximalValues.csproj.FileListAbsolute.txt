@@ -1,0 +1,6 @@
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\6.Loops\3.MinimalAndMaximalValues\bin\Debug\3.MinimalAndMaximalValues.exe.config
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\6.Loops\3.MinimalAndMaximalValues\bin\Debug\3.MinimalAndMaximalValues.exe
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\6.Loops\3.MinimalAndMaximalValues\bin\Debug\3.MinimalAndMaximalValues.pdb
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\6.Loops\3.MinimalAndMaximalValues\obj\Debug\3.MinimalAndMaximalValues.exe
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\6.Loops\3.MinimalAndMaximalValues\obj\Debug\3.MinimalAndMaximalValues.pdb
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\6.Loops\3.MinimalAndMaximalValues\obj\Debug\3.MinimalAndMaximalValues.csprojResolveAssemblyReference.cache

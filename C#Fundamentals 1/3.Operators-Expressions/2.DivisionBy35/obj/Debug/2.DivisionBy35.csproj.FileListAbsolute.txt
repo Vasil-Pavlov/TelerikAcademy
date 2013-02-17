@@ -1,0 +1,5 @@
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\3.Operators-Expressions\2.DivisionBy35\bin\Debug\2.DivisionBy35.exe.config
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\3.Operators-Expressions\2.DivisionBy35\bin\Debug\2.DivisionBy35.exe
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\3.Operators-Expressions\2.DivisionBy35\bin\Debug\2.DivisionBy35.pdb
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\3.Operators-Expressions\2.DivisionBy35\obj\Debug\2.DivisionBy35.exe
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\3.Operators-Expressions\2.DivisionBy35\obj\Debug\2.DivisionBy35.pdb
