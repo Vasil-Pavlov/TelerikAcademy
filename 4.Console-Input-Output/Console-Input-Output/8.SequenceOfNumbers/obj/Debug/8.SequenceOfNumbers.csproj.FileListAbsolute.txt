@@ -1,0 +1,6 @@
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\4.Console-Input-Output\Console-Input-Output\8.SequenceOfNumbers\bin\Debug\8.SequenceOfNumbers.exe.config
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\4.Console-Input-Output\Console-Input-Output\8.SequenceOfNumbers\bin\Debug\8.SequenceOfNumbers.exe
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\4.Console-Input-Output\Console-Input-Output\8.SequenceOfNumbers\bin\Debug\8.SequenceOfNumbers.pdb
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\4.Console-Input-Output\Console-Input-Output\8.SequenceOfNumbers\obj\Debug\8.SequenceOfNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\4.Console-Input-Output\Console-Input-Output\8.SequenceOfNumbers\obj\Debug\8.SequenceOfNumbers.exe
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\4.Console-Input-Output\Console-Input-Output\8.SequenceOfNumbers\obj\Debug\8.SequenceOfNumbers.pdb

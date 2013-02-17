@@ -1,0 +1,6 @@
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\6.Loops\8.GreatestCommonDivisor\bin\Debug\8.GreatestCommonDivisor.exe.config
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\6.Loops\8.GreatestCommonDivisor\obj\Debug\8.GreatestCommonDivisor.csprojResolveAssemblyReference.cache
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\6.Loops\8.GreatestCommonDivisor\bin\Debug\8.GreatestCommonDivisor.exe
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\6.Loops\8.GreatestCommonDivisor\bin\Debug\8.GreatestCommonDivisor.pdb
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\6.Loops\8.GreatestCommonDivisor\obj\Debug\8.GreatestCommonDivisor.exe
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\6.Loops\8.GreatestCommonDivisor\obj\Debug\8.GreatestCommonDivisor.pdb

@@ -1,0 +1,6 @@
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\3.Operators-Expressions\11.ExtractingBit\bin\Debug\11.ExtractingBit.exe.config
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\3.Operators-Expressions\11.ExtractingBit\bin\Debug\11.ExtractingBit.exe
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\3.Operators-Expressions\11.ExtractingBit\bin\Debug\11.ExtractingBit.pdb
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\3.Operators-Expressions\11.ExtractingBit\obj\Debug\11.ExtractingBit.exe
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\3.Operators-Expressions\11.ExtractingBit\obj\Debug\11.ExtractingBit.pdb
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\3.Operators-Expressions\11.ExtractingBit\obj\Debug\11.ExtractingBit.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\3.Operators-Expressions\14.ExchangBits\bin\Debug\14.ExchangBits.exe.config
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\3.Operators-Expressions\14.ExchangBits\bin\Debug\14.ExchangBits.exe
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\3.Operators-Expressions\14.ExchangBits\bin\Debug\14.ExchangBits.pdb
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\3.Operators-Expressions\14.ExchangBits\obj\Debug\14.ExchangBits.exe
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\3.Operators-Expressions\14.ExchangBits\obj\Debug\14.ExchangBits.pdb
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\3.Operators-Expressions\14.ExchangBits\obj\Debug\14.ExchangBits.csprojResolveAssemblyReference.cache

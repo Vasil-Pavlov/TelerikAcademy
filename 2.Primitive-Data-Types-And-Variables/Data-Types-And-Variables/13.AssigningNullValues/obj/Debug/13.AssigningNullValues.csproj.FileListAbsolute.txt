@@ -1,0 +1,6 @@
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\Primitive-Data-Types-And-Variables\Data-Types-And-Variables\13.AssigningNullValues\bin\Debug\13.AssigningNullValues.exe.config
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\Primitive-Data-Types-And-Variables\Data-Types-And-Variables\13.AssigningNullValues\obj\Debug\13.AssigningNullValues.csprojResolveAssemblyReference.cache
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\Primitive-Data-Types-And-Variables\Data-Types-And-Variables\13.AssigningNullValues\bin\Debug\13.AssigningNullValues.exe
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\Primitive-Data-Types-And-Variables\Data-Types-And-Variables\13.AssigningNullValues\bin\Debug\13.AssigningNullValues.pdb
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\Primitive-Data-Types-And-Variables\Data-Types-And-Variables\13.AssigningNullValues\obj\Debug\13.AssigningNullValues.exe
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\Primitive-Data-Types-And-Variables\Data-Types-And-Variables\13.AssigningNullValues\obj\Debug\13.AssigningNullValues.pdb

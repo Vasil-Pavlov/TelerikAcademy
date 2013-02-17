@@ -1,0 +1,6 @@
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\6.Loops\6.Loops\bin\Debug\6.Loops.exe.config
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\6.Loops\6.Loops\bin\Debug\6.Loops.exe
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\6.Loops\6.Loops\bin\Debug\6.Loops.pdb
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\6.Loops\6.Loops\obj\Debug\1.PrintNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\6.Loops\6.Loops\obj\Debug\6.Loops.exe
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\6.Loops\6.Loops\obj\Debug\6.Loops.pdb

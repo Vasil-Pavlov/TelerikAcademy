@@ -1,0 +1,6 @@
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\4.Console-Input-Output\Console-Input-Output\10.SumOfFractions\bin\Debug\10.SumOfFractions.exe.config
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\4.Console-Input-Output\Console-Input-Output\10.SumOfFractions\bin\Debug\10.SumOfFractions.exe
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\4.Console-Input-Output\Console-Input-Output\10.SumOfFractions\bin\Debug\10.SumOfFractions.pdb
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\4.Console-Input-Output\Console-Input-Output\10.SumOfFractions\obj\Debug\10.SumOfFractions.csprojResolveAssemblyReference.cache
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\4.Console-Input-Output\Console-Input-Output\10.SumOfFractions\obj\Debug\10.SumOfFractions.exe
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\4.Console-Input-Output\Console-Input-Output\10.SumOfFractions\obj\Debug\10.SumOfFractions.pdb

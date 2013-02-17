@@ -1,0 +1,6 @@
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\3.Operators-Expressions\1.OddOrEven\bin\Debug\1.OddOrEven.exe.config
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\3.Operators-Expressions\1.OddOrEven\bin\Debug\1.OddOrEven.exe
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\3.Operators-Expressions\1.OddOrEven\bin\Debug\1.OddOrEven.pdb
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\3.Operators-Expressions\1.OddOrEven\obj\Debug\1.OddOrEven.csprojResolveAssemblyReference.cache
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\3.Operators-Expressions\1.OddOrEven\obj\Debug\1.OddOrEven.exe
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\3.Operators-Expressions\1.OddOrEven\obj\Debug\1.OddOrEven.pdb

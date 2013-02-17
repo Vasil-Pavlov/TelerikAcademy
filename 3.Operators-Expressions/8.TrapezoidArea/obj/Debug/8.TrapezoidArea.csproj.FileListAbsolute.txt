@@ -1,0 +1,5 @@
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\3.Operators-Expressions\8.TrapezoidArea\bin\Debug\8.TrapezoidArea.exe.config
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\3.Operators-Expressions\8.TrapezoidArea\bin\Debug\8.TrapezoidArea.exe
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\3.Operators-Expressions\8.TrapezoidArea\bin\Debug\8.TrapezoidArea.pdb
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\3.Operators-Expressions\8.TrapezoidArea\obj\Debug\8.TrapezoidArea.exe
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\3.Operators-Expressions\8.TrapezoidArea\obj\Debug\8.TrapezoidArea.pdb
