@@ -1,0 +1,5 @@
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\7.TextFiles\7.TextFiles\13.WordsCount\bin\Debug\13.WordsCount.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\7.TextFiles\7.TextFiles\13.WordsCount\bin\Debug\13.WordsCount.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\7.TextFiles\7.TextFiles\13.WordsCount\bin\Debug\13.WordsCount.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\7.TextFiles\7.TextFiles\13.WordsCount\obj\Debug\13.WordsCount.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\7.TextFiles\7.TextFiles\13.WordsCount\obj\Debug\13.WordsCount.pdb

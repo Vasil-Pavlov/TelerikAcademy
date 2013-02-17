@@ -1,0 +1,8 @@
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\5.ClassesAndObjects\7.ArithmeticExpression\bin\Debug\7.ArithmeticExpression.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\5.ClassesAndObjects\7.ArithmeticExpression\bin\Debug\7.ArithmeticExpression.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\5.ClassesAndObjects\7.ArithmeticExpression\bin\Debug\7.ArithmeticExpression.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\5.ClassesAndObjects\7.ArithmeticExpression\obj\Debug\7.ArithmeticExpression.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\5.ClassesAndObjects\7.ArithmeticExpression\obj\Debug\7.ArithmeticExpression.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\5.ClassesAndObjects\5.ClassesAndObjects\7.ArithmeticExpression\bin\Debug\7.ArithmeticExpression.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\5.ClassesAndObjects\5.ClassesAndObjects\7.ArithmeticExpression\obj\Debug\7.ArithmeticExpression.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\5.ClassesAndObjects\5.ClassesAndObjects\7.ArithmeticExpression\obj\Debug\7.ArithmeticExpression.pdb

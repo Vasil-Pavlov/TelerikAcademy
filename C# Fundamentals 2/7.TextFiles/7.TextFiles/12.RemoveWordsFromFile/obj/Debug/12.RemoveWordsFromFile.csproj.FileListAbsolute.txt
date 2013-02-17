@@ -1,0 +1,5 @@
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\7.TextFiles\7.TextFiles\12.RemoveWordsFromFile\bin\Debug\12.RemoveWordsFromFile.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\7.TextFiles\7.TextFiles\12.RemoveWordsFromFile\bin\Debug\12.RemoveWordsFromFile.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\7.TextFiles\7.TextFiles\12.RemoveWordsFromFile\bin\Debug\12.RemoveWordsFromFile.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\7.TextFiles\7.TextFiles\12.RemoveWordsFromFile\obj\Debug\12.RemoveWordsFromFile.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\7.TextFiles\7.TextFiles\12.RemoveWordsFromFile\obj\Debug\12.RemoveWordsFromFile.pdb

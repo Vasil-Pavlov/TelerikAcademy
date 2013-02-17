@@ -1,0 +1,6 @@
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\3.Methods\10.Factorial\bin\Debug\10.Factorial.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\3.Methods\10.Factorial\bin\Debug\10.Factorial.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\3.Methods\10.Factorial\bin\Debug\10.Factorial.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\3.Methods\10.Factorial\obj\Debug\10.Factorial.csprojResolveAssemblyReference.cache
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\3.Methods\10.Factorial\obj\Debug\10.Factorial.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\3.Methods\10.Factorial\obj\Debug\10.Factorial.pdb

@@ -1,0 +1,46 @@
+div {
+        padding-right: 12px;
+        border: 1px solid #f00;
+        border-radius: 50px;
+        background: #000;
+}
+
+section > div {
+	 width: 1200px; 
+}
+
+section > div { 
+	padding-right: 120px; 
+}
+
+section > div > div { 
+	padding-right: 100px; 
+}
+
+section > div > div > div { 
+	padding-right: 80px; 
+}
+
+section > div > div > div > div { 
+padding-right: 65px; 
+}
+
+section > div > div > div > div > div { 
+	padding-right: 50px; 
+}
+
+section > div > div > div > div > div > div {
+	padding-right: 40px; 
+}
+
+section > div > div > div > div > div > div > div { 
+	padding-right: 30px; 
+}
+
+section > div > div > div > div > div > div > div > div { 
+	padding-right: 20px; 
+}
+
+section > div > div > div > div > div > div > div > div > div {
+ 	padding-right: 15px; 
+}

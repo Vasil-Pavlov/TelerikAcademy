@@ -1,0 +1,6 @@
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\4.NumeralSystems\6.FromBinaryToHexadecimal\bin\Debug\6.FromBinaryToHexadecimal.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\4.NumeralSystems\6.FromBinaryToHexadecimal\bin\Debug\6.FromBinaryToHexadecimal.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\4.NumeralSystems\6.FromBinaryToHexadecimal\bin\Debug\6.FromBinaryToHexadecimal.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\4.NumeralSystems\6.FromBinaryToHexadecimal\obj\Debug\6.FromBinaryToHexadecimal.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\4.NumeralSystems\6.FromBinaryToHexadecimal\obj\Debug\6.FromBinaryToHexadecimal.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\4.NumeralSystems\6.FromBinaryToHexadecimal\obj\Debug\6.FromBinaryToHexadecimal.csprojResolveAssemblyReference.cache

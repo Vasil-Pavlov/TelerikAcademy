@@ -1,0 +1,8 @@
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\6.ExceptionHandling\4.DownloadFile\bin\Debug\4.DownloadFile.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\6.ExceptionHandling\4.DownloadFile\bin\Debug\4.DownloadFile.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\6.ExceptionHandling\4.DownloadFile\bin\Debug\4.DownloadFile.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\6.ExceptionHandling\4.DownloadFile\obj\Debug\4.DownloadFile.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\6.ExceptionHandling\4.DownloadFile\obj\Debug\4.DownloadFile.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\6.ExceptionHandling\6.ExceptionHandling\4.DownloadFile\bin\Debug\4.DownloadFile.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\6.ExceptionHandling\6.ExceptionHandling\4.DownloadFile\obj\Debug\4.DownloadFile.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\6.ExceptionHandling\6.ExceptionHandling\4.DownloadFile\obj\Debug\4.DownloadFile.pdb

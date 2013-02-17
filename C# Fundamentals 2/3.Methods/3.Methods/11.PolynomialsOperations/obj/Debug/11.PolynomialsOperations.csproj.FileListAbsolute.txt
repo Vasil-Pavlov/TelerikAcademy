@@ -1,0 +1,5 @@
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\3.Methods\11.PolynomialsOperations\bin\Debug\11.PolynomialsOperations.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\3.Methods\11.PolynomialsOperations\bin\Debug\11.PolynomialsOperations.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\3.Methods\11.PolynomialsOperations\bin\Debug\11.PolynomialsOperations.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\3.Methods\11.PolynomialsOperations\obj\Debug\11.PolynomialsOperations.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\3.Methods\11.PolynomialsOperations\obj\Debug\11.PolynomialsOperations.pdb

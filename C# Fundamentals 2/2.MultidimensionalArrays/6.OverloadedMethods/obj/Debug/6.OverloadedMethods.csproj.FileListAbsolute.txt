@@ -1,0 +1,5 @@
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\2.MultiDimensionalArra\1.MatrixA\6.OverloadedMethods\bin\Debug\6.OverloadedMethods.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\2.MultiDimensionalArra\1.MatrixA\6.OverloadedMethods\bin\Debug\6.OverloadedMethods.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\2.MultiDimensionalArra\1.MatrixA\6.OverloadedMethods\bin\Debug\6.OverloadedMethods.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\2.MultiDimensionalArra\1.MatrixA\6.OverloadedMethods\obj\Debug\6.OverloadedMethods.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\2.MultiDimensionalArra\1.MatrixA\6.OverloadedMethods\obj\Debug\6.OverloadedMethods.pdb

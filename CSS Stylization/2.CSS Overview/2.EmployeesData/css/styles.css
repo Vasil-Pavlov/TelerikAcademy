@@ -1,0 +1,49 @@
+body {
+	font-family:Arial, sans-serif; 
+}
+
+table { 
+	border-collapse:collapse;
+        border:1px;
+	border-style:outset;
+        border-color:#CCC;
+        width:625px;
+        height:200px;
+}
+
+table th {
+	background-color:#60b908;
+	text-align:left;
+	font-weight: normal;
+        color:#FFF;
+        border:1px;
+        border-style:outset;
+        border-color:#CCC;
+        padding: 5px;
+        line-height:2em;
+}
+
+td {
+
+        border-style:outset;
+        border-left:1px outset #CCC;
+        border-top:none;
+        border-bottom:none; 
+        border-right:1px outset #CCC;
+        line-height:2em;
+        padding:5px;
+}
+
+
+table tr:nth-child(even) {
+
+        background-color:#edecd9;
+}
+
+
+img {
+       width:25px;
+       height:15px;
+       padding:10px;
+       vertical-align:middle;
+}

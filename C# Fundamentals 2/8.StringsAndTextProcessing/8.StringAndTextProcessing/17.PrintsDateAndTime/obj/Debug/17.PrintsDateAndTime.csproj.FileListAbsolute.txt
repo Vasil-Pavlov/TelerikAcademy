@@ -1,0 +1,5 @@
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\8.StringAndTextProcessing\17.PrintsDateAndTime\bin\Debug\17.PrintsDateAndTime.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\8.StringAndTextProcessing\17.PrintsDateAndTime\bin\Debug\17.PrintsDateAndTime.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\8.StringAndTextProcessing\17.PrintsDateAndTime\bin\Debug\17.PrintsDateAndTime.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\8.StringAndTextProcessing\17.PrintsDateAndTime\obj\Debug\17.PrintsDateAndTime.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\8.StringAndTextProcessing\17.PrintsDateAndTime\obj\Debug\17.PrintsDateAndTime.pdb

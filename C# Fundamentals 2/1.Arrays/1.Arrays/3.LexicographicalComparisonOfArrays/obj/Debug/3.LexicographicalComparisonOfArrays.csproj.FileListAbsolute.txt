@@ -1,0 +1,9 @@
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\1.Arrays\3.LexicographicalComparisonOfArrays\bin\Debug\3.LexicographicalComparisonOfArrays.exe.config
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\1.Arrays\3.LexicographicalComparisonOfArrays\bin\Debug\3.LexicographicalComparisonOfArrays.exe
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\1.Arrays\3.LexicographicalComparisonOfArrays\bin\Debug\3.LexicographicalComparisonOfArrays.pdb
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\1.Arrays\3.LexicographicalComparisonOfArrays\obj\Debug\3.LexicographicalComparisonOfArrays.exe
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\1.Arrays\3.LexicographicalComparisonOfArrays\obj\Debug\3.LexicographicalComparisonOfArrays.pdb
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\1.Arrays\3.LexicographicalComparisonOfArrays\obj\Debug\3.LexicographicalComparisonOfArrays.csprojResolveAssemblyReference.cache
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\1.Arrays\1.Arrays\3.LexicographicalComparisonOfArrays\bin\Debug\3.LexicographicalComparisonOfArrays.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\1.Arrays\1.Arrays\3.LexicographicalComparisonOfArrays\obj\Debug\3.LexicographicalComparisonOfArrays.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\1.Arrays\1.Arrays\3.LexicographicalComparisonOfArrays\obj\Debug\3.LexicographicalComparisonOfArrays.pdb

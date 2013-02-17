@@ -1,0 +1,9 @@
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\4.NumeralSystems\7.FromParticularNumeralSystem\bin\Debug\7.FromParticularNumeralSystem.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\4.NumeralSystems\7.FromParticularNumeralSystem\bin\Debug\7.FromParticularNumeralSystem.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\4.NumeralSystems\7.FromParticularNumeralSystem\bin\Debug\7.FromParticularNumeralSystem.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\4.NumeralSystems\7.FromParticularNumeralSystem\obj\Debug\7.FromParticularNumeralSystem.csprojResolveAssemblyReference.cache
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\4.NumeralSystems\7.FromParticularNumeralSystem\obj\Debug\7.FromParticularNumeralSystem.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\4.NumeralSystems\7.FromParticularNumeralSystem\obj\Debug\7.FromParticularNumeralSystem.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\4.Numeral Systems\4.NumeralSystems\7.FromParticularNumeralSystem\bin\Debug\7.FromParticularNumeralSystem.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\4.Numeral Systems\4.NumeralSystems\7.FromParticularNumeralSystem\obj\Debug\7.FromParticularNumeralSystem.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\4.Numeral Systems\4.NumeralSystems\7.FromParticularNumeralSystem\obj\Debug\7.FromParticularNumeralSystem.pdb

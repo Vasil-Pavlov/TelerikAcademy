@@ -1,0 +1,5 @@
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\8.StringAndTextProcessing\7.Encryption\bin\Debug\7.Encryption.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\8.StringAndTextProcessing\7.Encryption\bin\Debug\7.Encryption.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\8.StringAndTextProcessing\7.Encryption\bin\Debug\7.Encryption.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\8.StringAndTextProcessing\7.Encryption\obj\Debug\7.Encryption.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\8.StringAndTextProcessing\7.Encryption\obj\Debug\7.Encryption.pdb

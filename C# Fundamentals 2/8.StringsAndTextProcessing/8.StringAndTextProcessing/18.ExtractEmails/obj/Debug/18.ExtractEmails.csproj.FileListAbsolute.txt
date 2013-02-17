@@ -1,0 +1,6 @@
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\8.StringAndTextProcessing\18.ExtractEmails\bin\Debug\18.ExtractEmails.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\8.StringAndTextProcessing\18.ExtractEmails\bin\Debug\18.ExtractEmails.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\8.StringAndTextProcessing\18.ExtractEmails\bin\Debug\18.ExtractEmails.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\8.StringAndTextProcessing\18.ExtractEmails\obj\Debug\18.ExtractEmails.csprojResolveAssemblyReference.cache
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\8.StringAndTextProcessing\18.ExtractEmails\obj\Debug\18.ExtractEmails.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\8.StringAndTextProcessing\18.ExtractEmails\obj\Debug\18.ExtractEmails.pdb

@@ -1,0 +1,5 @@
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\2.MultiDimensionalArra\1.MatrixA\7.LargestAreaOfEqualElements\bin\Debug\7.LargestAreaOfEqualElements.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\2.MultiDimensionalArra\1.MatrixA\7.LargestAreaOfEqualElements\bin\Debug\7.LargestAreaOfEqualElements.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\2.MultiDimensionalArra\1.MatrixA\7.LargestAreaOfEqualElements\bin\Debug\7.LargestAreaOfEqualElements.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\2.MultiDimensionalArra\1.MatrixA\7.LargestAreaOfEqualElements\obj\Debug\7.LargestAreaOfEqualElements.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\2.MultiDimensionalArra\1.MatrixA\7.LargestAreaOfEqualElements\obj\Debug\7.LargestAreaOfEqualElements.pdb

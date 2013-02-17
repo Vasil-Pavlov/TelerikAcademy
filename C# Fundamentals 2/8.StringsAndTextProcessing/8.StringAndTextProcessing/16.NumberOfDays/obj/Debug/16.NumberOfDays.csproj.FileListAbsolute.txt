@@ -1,0 +1,5 @@
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\8.StringAndTextProcessing\16.NumberOfDays\bin\Debug\16.NumberOfDays.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\8.StringAndTextProcessing\16.NumberOfDays\bin\Debug\16.NumberOfDays.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\8.StringAndTextProcessing\16.NumberOfDays\bin\Debug\16.NumberOfDays.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\8.StringAndTextProcessing\16.NumberOfDays\obj\Debug\16.NumberOfDays.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\8.StringAndTextProcessing\16.NumberOfDays\obj\Debug\16.NumberOfDays.pdb

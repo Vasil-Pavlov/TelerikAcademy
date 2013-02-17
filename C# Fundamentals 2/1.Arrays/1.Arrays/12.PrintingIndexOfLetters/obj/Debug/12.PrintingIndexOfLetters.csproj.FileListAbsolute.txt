@@ -1,0 +1,5 @@
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\1.Arrays\1.Arrays\12.PrintingIndexOfLetters\bin\Debug\12.PrintingIndexOfLetters.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\1.Arrays\1.Arrays\12.PrintingIndexOfLetters\bin\Debug\12.PrintingIndexOfLetters.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\1.Arrays\1.Arrays\12.PrintingIndexOfLetters\bin\Debug\12.PrintingIndexOfLetters.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\1.Arrays\1.Arrays\12.PrintingIndexOfLetters\obj\Debug\12.PrintingIndexOfLetters.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\1.Arrays\1.Arrays\12.PrintingIndexOfLetters\obj\Debug\12.PrintingIndexOfLetters.pdb

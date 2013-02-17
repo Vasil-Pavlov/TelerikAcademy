@@ -1,0 +1,6 @@
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\3.Methods\2.BiggerNumber\bin\Debug\2.BiggerNumber.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\3.Methods\2.BiggerNumber\bin\Debug\2.BiggerNumber.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\3.Methods\2.BiggerNumber\bin\Debug\2.BiggerNumber.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\3.Methods\2.BiggerNumber\obj\Debug\2.BiggestNumber.csprojResolveAssemblyReference.cache
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\3.Methods\2.BiggerNumber\obj\Debug\2.BiggerNumber.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\3.Methods\2.BiggerNumber\obj\Debug\2.BiggerNumber.pdb

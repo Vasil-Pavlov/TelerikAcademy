@@ -1,0 +1,6 @@
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\5.ClassesAndObjects\2.GenerateRandomValues\bin\Debug\2.GenerateRandomValues.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\5.ClassesAndObjects\2.GenerateRandomValues\bin\Debug\2.GenerateRandomValues.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\5.ClassesAndObjects\2.GenerateRandomValues\bin\Debug\2.GenerateRandomValues.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\5.ClassesAndObjects\2.GenerateRandomValues\obj\Debug\2.GenerateRandomValues.csprojResolveAssemblyReference.cache
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\5.ClassesAndObjects\2.GenerateRandomValues\obj\Debug\2.GenerateRandomValues.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\5.ClassesAndObjects\2.GenerateRandomValues\obj\Debug\2.GenerateRandomValues.pdb

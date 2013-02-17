@@ -1,0 +1,200 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Calendar</title>
+    <style>
+        nav h1
+        {
+            background-color:#d8d8d8;
+            color:#8d8d8d;
+        }
+
+        #rightAlignment
+        {
+            text-align:right;
+            margin-top:-25px;
+            margin-right:188px
+        }
+
+        #leftAlignment
+        {
+            margin-top:-10px;
+        }
+
+        aside
+        {
+            text-align:right;
+            margin:-495px;
+            margin-right:5px;
+        }
+
+        .blue
+        {
+            border:none;
+            background-color:#61aee6;
+            border-radius:5px;
+            padding:8px;
+            margin:3px;
+            color:white;
+        }
+
+        #events
+        {
+            background-color:#d8d8d8;
+            color:#8d8d8d;
+            border-radius:5px;
+            padding:8px;
+            margin:3px;
+            border:none;
+        }
+
+
+        table td,th
+        {
+            border:1px solid #d8d4d4;
+            border-collapse:collapse;
+        }
+
+        table
+        {   border:1px solid #d8d4d4;
+            border-collapse:collapse;
+            width:1160px;
+            height:500px;
+
+        }
+
+        td
+        {
+            text-align:right;
+            height:70px;
+        }
+        th
+        {
+            width:30px;
+        }
+
+        #april
+        {
+            background-color:#d8d8d8;
+            color:#8d8d8d;
+            line-height:30px;
+            border:none;
+        }
+
+        .alignment
+        {
+            text-align:right;
+        }
+
+        #corner
+        {
+            margin-top:50px;
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <h1>Calendar</h1>
+        <div id="leftAlignment" >
+        <input type="button" name="name" value="<" />
+        <input type="button" name="name" value=">" />
+        </div>
+        <div id="rightAlignment">
+        <input  type="submit" name="name" value="month"  />
+        <input  type="button" name="name" value="week" />
+        <input type="button" name="name" value="day"  />
+        </div>
+    </nav>
+    <section>
+        <table>
+            <thead>
+                <tr id="april">
+                    <th colspan="7" >
+                        April 2012
+                    </th>
+                </tr>
+                <tr>
+                    <th>Sun</th>
+                    <th>Mon</th>
+                    <th>Tue</th>
+                    <th>Wed</th>
+                    <th>Thu</th>
+                    <th>Fri</th>
+                    <th>Sat</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="alignment">
+                    <td><span id="corner">1</span></td>
+                    <td>2</td>
+                    <td>3</td>
+                    <td>4</td>
+                    <td>5</td>
+                    <td>6</td>
+                    <td>7</td>
+                </tr>
+                 <tr class="alignment">
+                    <td>8</td>
+                    <td>9</td>
+                    <td>10</td>
+                    <td>11</td>
+                    <td>12</td>
+                    <td>13</td>
+                    <td>14</td>
+                </tr>
+                 <tr class="alignment">
+                    <td>15</td>
+                    <td>16</td>
+                    <td>17</td>
+                    <td>18</td>
+                    <td>19</td>
+                    <td>20</td>
+                    <td>21</td>
+                </tr>
+                 <tr class="alignment">
+                    <td>22</td>
+                    <td>23</td>
+                    <td>24</td>
+                    <td>25</td>
+                    <td>26</td>
+                    <td>27</td>
+                    <td>28</td>
+                </tr>
+                 <tr class="alignment">
+                    <td>29</td>
+                    <td>30</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr class="alignment">
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
+    <aside>
+        <input id="events" type="text" name="name" value="Draggable Events" />
+        <br />
+        <input class="blue" type="text" name="name" value="My Event 1 " />
+        <br />
+        <input class="blue" type="text" name="name" value="My Event 2 " />
+        <br />
+        <input class="blue" type="text" name="name" value="My Event 3 " />
+        <br />
+        <input class="blue" type="text" name="name" value="My Event 4 " />
+        <br />
+        <input class="blue" type="text" name="name" value="My Event 5 " />
+        <br />
+    </aside>
+
+</body> 
+</html>

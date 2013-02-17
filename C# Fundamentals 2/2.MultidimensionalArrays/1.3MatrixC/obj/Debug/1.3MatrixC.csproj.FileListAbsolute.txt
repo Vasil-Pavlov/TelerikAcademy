@@ -1,0 +1,5 @@
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\2.MultiDimensionalArra\1.MatrixA\1.3MatrixC\bin\Debug\1.3MatrixC.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\2.MultiDimensionalArra\1.MatrixA\1.3MatrixC\bin\Debug\1.3MatrixC.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\2.MultiDimensionalArra\1.MatrixA\1.3MatrixC\bin\Debug\1.3MatrixC.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\2.MultiDimensionalArra\1.MatrixA\1.3MatrixC\obj\Debug\1.3MatrixC.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\2.MultiDimensionalArra\1.MatrixA\1.3MatrixC\obj\Debug\1.3MatrixC.pdb

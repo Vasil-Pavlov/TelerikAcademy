@@ -1,0 +1,5 @@
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\8.StringAndTextProcessing\9.ForbiddenWords\bin\Debug\9.ForbiddenWords.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\8.StringAndTextProcessing\9.ForbiddenWords\bin\Debug\9.ForbiddenWords.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\8.StringAndTextProcessing\9.ForbiddenWords\bin\Debug\9.ForbiddenWords.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\8.StringAndTextProcessing\9.ForbiddenWords\obj\Debug\9.ForbiddenWords.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\8.StringAndTextProcessing\9.ForbiddenWords\obj\Debug\9.ForbiddenWords.pdb

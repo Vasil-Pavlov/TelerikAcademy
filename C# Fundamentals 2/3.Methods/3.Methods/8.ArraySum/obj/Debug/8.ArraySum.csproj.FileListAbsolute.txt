@@ -1,0 +1,5 @@
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\3.Methods\8.ArraySum\bin\Debug\8.ArraySum.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\3.Methods\8.ArraySum\bin\Debug\8.ArraySum.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\3.Methods\8.ArraySum\bin\Debug\8.ArraySum.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\3.Methods\8.ArraySum\obj\Debug\8.ArraySum.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\3.Methods\8.ArraySum\obj\Debug\8.ArraySum.pdb

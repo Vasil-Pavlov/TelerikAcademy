@@ -1,0 +1,5 @@
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\8.StringAndTextProcessing\25.RemoveHTMLTags\bin\Debug\25.RemoveHTMLTags.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\8.StringAndTextProcessing\25.RemoveHTMLTags\bin\Debug\25.RemoveHTMLTags.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\8.StringAndTextProcessing\25.RemoveHTMLTags\bin\Debug\25.RemoveHTMLTags.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\8.StringAndTextProcessing\25.RemoveHTMLTags\obj\Debug\25.RemoveHTMLTags.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\8.StringAndTextProcessing\25.RemoveHTMLTags\obj\Debug\25.RemoveHTMLTags.pdb

@@ -1,0 +1,9 @@
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\6.ExceptionHandling\1.SquareRoot\bin\Debug\1.SquareRoot.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\6.ExceptionHandling\1.SquareRoot\bin\Debug\1.SquareRoot.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\6.ExceptionHandling\1.SquareRoot\bin\Debug\1.SquareRoot.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\6.ExceptionHandling\1.SquareRoot\obj\Debug\1.SquareRoot.csprojResolveAssemblyReference.cache
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\6.ExceptionHandling\1.SquareRoot\obj\Debug\1.SquareRoot.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\6.ExceptionHandling\1.SquareRoot\obj\Debug\1.SquareRoot.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\6.ExceptionHandling\6.ExceptionHandling\1.SquareRoot\bin\Debug\1.SquareRoot.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\6.ExceptionHandling\6.ExceptionHandling\1.SquareRoot\obj\Debug\1.SquareRoot.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\6.ExceptionHandling\6.ExceptionHandling\1.SquareRoot\obj\Debug\1.SquareRoot.pdb

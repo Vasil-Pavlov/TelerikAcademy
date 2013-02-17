@@ -1,0 +1,5 @@
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\7.TextFiles\7.TextFiles\2.ConcatenateFiles\bin\Debug\2.ConcatenateFiles.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\7.TextFiles\7.TextFiles\2.ConcatenateFiles\bin\Debug\2.ConcatenateFiles.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\7.TextFiles\7.TextFiles\2.ConcatenateFiles\bin\Debug\2.ConcatenateFiles.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\7.TextFiles\7.TextFiles\2.ConcatenateFiles\obj\Debug\2.ConcatenateFiles.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\7.TextFiles\7.TextFiles\2.ConcatenateFiles\obj\Debug\2.ConcatenateFiles.pdb

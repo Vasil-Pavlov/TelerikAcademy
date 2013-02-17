@@ -1,0 +1,6 @@
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\1.Arrays\1.Arrays\10.FindingParticularSum\bin\Debug\10.FindingParticularSum.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\1.Arrays\1.Arrays\10.FindingParticularSum\bin\Debug\10.FindingParticularSum.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\1.Arrays\1.Arrays\10.FindingParticularSum\bin\Debug\10.FindingParticularSum.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\1.Arrays\1.Arrays\10.FindingParticularSum\obj\Debug\10.FindingParticularSum.csprojResolveAssemblyReference.cache
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\1.Arrays\1.Arrays\10.FindingParticularSum\obj\Debug\10.FindingParticularSum.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\1.Arrays\1.Arrays\10.FindingParticularSum\obj\Debug\10.FindingParticularSum.pdb

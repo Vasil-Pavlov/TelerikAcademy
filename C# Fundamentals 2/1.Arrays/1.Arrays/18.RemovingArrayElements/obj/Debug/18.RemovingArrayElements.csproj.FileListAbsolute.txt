@@ -1,0 +1,5 @@
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\1.Arrays\1.Arrays\18.RemovingArrayElements\bin\Debug\18.RemovingArrayElements.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\1.Arrays\1.Arrays\18.RemovingArrayElements\bin\Debug\18.RemovingArrayElements.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\1.Arrays\1.Arrays\18.RemovingArrayElements\bin\Debug\18.RemovingArrayElements.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\1.Arrays\1.Arrays\18.RemovingArrayElements\obj\Debug\18.RemovingArrayElements.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\1.Arrays\1.Arrays\18.RemovingArrayElements\obj\Debug\18.RemovingArrayElements.pdb

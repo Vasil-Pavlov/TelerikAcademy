@@ -1,0 +1,64 @@
+body {
+    margin: 15px;
+    font: 15px Verdana;
+}
+
+h1 {
+    font-size: 1.5em;
+}
+
+.categories {
+    padding: 13px;
+    width: 480px;
+    background: #eee;
+    border: 1px solid #ccc;
+}
+
+.categories h1 { margin-bottom: 15px; }
+
+.music {
+    overflow: hidden; 
+    padding: 15px;
+    border: 1px solid #939597;
+    background: #fff;
+}
+.music:not(:last-child) {
+        margin-bottom: 13px; 
+
+}
+
+.music img {
+    float: left;
+    margin-right: 13px;
+    border: 1px solid #9A8791;
+}
+
+.music p { 
+    margin: 0; 
+}
+
+.actions {
+        text-align: right; 
+}
+
+.button:hover {
+        text-decoration: underline; 
+}
+
+.button {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 0 12px 0 23px;
+    color: #fff;
+    text-decoration: none;
+    line-height: 1.5em;
+}
+.button {
+    border-top: 2px solid #E38382;
+    border-right: 2px solid #630207;
+    border-bottom: 2px solid #630207;
+    border-left: 2px solid #9C2829;
+    background: #f00;
+    box-shadow: inset 15px 0 0 #8A0000;
+}
+        

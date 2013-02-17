@@ -1,0 +1,46 @@
+html {
+	background-color:#C0C0C0;
+}
+
+#mainheader {
+	font-size:5em;
+	color:white;
+	text-align:center; 
+}
+
+a {
+	text-decoration:none;
+	color:white;
+}
+
+li {
+	font-size:2em;
+	list-style:none;
+	text-align:center;
+}
+
+.current {
+	background-color:#D3D3D3;
+}
+
+#underlined {
+	text-decoration:underline;
+}
+
+article h1 {
+	color:#FFF;
+	font-size:2.5em;
+}
+
+body>footer {
+	text-align:center;
+}
+
+.black {
+	color:black;
+}
+
+.text {
+	font-size:1.3em;
+	line-height:1.4;
+}

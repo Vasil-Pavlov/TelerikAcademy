@@ -1,0 +1,5 @@
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\7.TextFiles\7.TextFiles\11.DeleteAllWordsWithPrefix\bin\Debug\11.DeleteAllWordsWithPrefix.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\7.TextFiles\7.TextFiles\11.DeleteAllWordsWithPrefix\bin\Debug\11.DeleteAllWordsWithPrefix.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\7.TextFiles\7.TextFiles\11.DeleteAllWordsWithPrefix\bin\Debug\11.DeleteAllWordsWithPrefix.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\7.TextFiles\7.TextFiles\11.DeleteAllWordsWithPrefix\obj\Debug\11.DeleteAllWordsWithPrefix.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\7.TextFiles\7.TextFiles\11.DeleteAllWordsWithPrefix\obj\Debug\11.DeleteAllWordsWithPrefix.pdb

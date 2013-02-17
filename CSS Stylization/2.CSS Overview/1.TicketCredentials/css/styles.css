@@ -1,0 +1,49 @@
+table { 
+	background-color:gray;
+        width:400px; 
+}                     
+
+td { 
+	padding-top:15px; 
+}
+
+#link { 
+	text-align:center; 
+}
+
+.question { 
+	color:whitesmoke;
+        width:133px;
+        font-style:italic;
+        font-family:arial; 
+}
+
+.gray {
+	 color:lightgray; 
+}
+
+#fontsize { 
+	font-size:x-large; 
+}
+
+#red { 
+	color:red; 
+}
+
+#orange {
+ 	color:darkorange;
+	font-weight:bold; 
+}
+
+.yellow {
+	 color:navajowhite; 
+}
+
+#name { 
+	padding-bottom:23px; 
+}
+
+span.circle { 
+	border-radius: 50%;
+        background-color: #71b47a; 
+}

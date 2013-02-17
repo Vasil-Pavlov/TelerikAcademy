@@ -1,0 +1,9 @@
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\5.ClassesAndObjects\3.CurrentDay\bin\Debug\3.CurrentDay.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\5.ClassesAndObjects\3.CurrentDay\bin\Debug\3.CurrentDay.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\5.ClassesAndObjects\3.CurrentDay\bin\Debug\3.CurrentDay.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\5.ClassesAndObjects\3.CurrentDay\obj\Debug\3.CurrentDay.csprojResolveAssemblyReference.cache
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\5.ClassesAndObjects\3.CurrentDay\obj\Debug\3.CurrentDay.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\5.ClassesAndObjects\3.CurrentDay\obj\Debug\3.CurrentDay.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\5.ClassesAndObjects\5.ClassesAndObjects\3.CurrentDay\bin\Debug\3.CurrentDay.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\5.ClassesAndObjects\5.ClassesAndObjects\3.CurrentDay\obj\Debug\3.CurrentDay.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\5.ClassesAndObjects\5.ClassesAndObjects\3.CurrentDay\obj\Debug\3.CurrentDay.pdb

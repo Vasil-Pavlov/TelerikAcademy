@@ -1,0 +1,9 @@
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\5.ClassesAndObjects\1.IsLeapYear\bin\Debug\1.IsLeapYear.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\5.ClassesAndObjects\1.IsLeapYear\bin\Debug\1.IsLeapYear.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\5.ClassesAndObjects\1.IsLeapYear\bin\Debug\1.IsLeapYear.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\5.ClassesAndObjects\1.IsLeapYear\obj\Debug\1.IsLeapYear.csprojResolveAssemblyReference.cache
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\5.ClassesAndObjects\1.IsLeapYear\obj\Debug\1.IsLeapYear.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\5.ClassesAndObjects\1.IsLeapYear\obj\Debug\1.IsLeapYear.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\5.ClassesAndObjects\5.ClassesAndObjects\1.IsLeapYear\bin\Debug\1.IsLeapYear.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\5.ClassesAndObjects\5.ClassesAndObjects\1.IsLeapYear\obj\Debug\1.IsLeapYear.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\5.ClassesAndObjects\5.ClassesAndObjects\1.IsLeapYear\obj\Debug\1.IsLeapYear.pdb

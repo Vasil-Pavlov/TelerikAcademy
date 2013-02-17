@@ -1,0 +1,11 @@
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\2.MultiDimensionalArra\1.MatrixA\1.MatrixA\bin\Debug\1.MatrixA.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\2.MultiDimensionalArra\1.MatrixA\1.MatrixA\bin\Debug\1.MatrixA.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\2.MultiDimensionalArra\1.MatrixA\1.MatrixA\bin\Debug\1.MatrixA.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\2.MultiDimensionalArra\1.MatrixA\1.MatrixA\obj\Debug\1.MatrixA.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\2.MultiDimensionalArra\1.MatrixA\1.MatrixA\obj\Debug\1.MatrixA.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\2.Multidimensional Arrays\2.MultiDimensionalArrays1\2.MultidimensionalArrays\1.MatrixA\bin\Debug\1.MatrixA.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\2.Multidimensional Arrays\2.MultiDimensionalArrays1\2.MultidimensionalArrays\1.MatrixA\obj\Debug\1.MatrixA.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\2.Multidimensional Arrays\2.MultiDimensionalArrays1\2.MultidimensionalArrays\1.MatrixA\obj\Debug\1.MatrixA.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\2.MultidimensionalArrays\1.MatrixA\bin\Debug\1.MatrixA.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\2.MultidimensionalArrays\1.MatrixA\obj\Debug\1.MatrixA.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\2.MultidimensionalArrays\1.MatrixA\obj\Debug\1.MatrixA.pdb

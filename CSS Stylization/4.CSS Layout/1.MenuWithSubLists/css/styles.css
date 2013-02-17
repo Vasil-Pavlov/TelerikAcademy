@@ -1,0 +1,32 @@
+.list {
+    overflow: hidden;
+    max-height: 1em;
+    margin:2px;
+    color:#ada8a8;
+    text-decoration:none;
+            
+ }
+       
+.list:hover {
+    max-height:100px; 
+}
+
+ul li a {
+    text-decoration:none;
+}
+
+a{
+    color:black;
+}
+
+ul{
+    list-style-type:none;
+}
+ul ul {
+    margin-left:-25px;
+}
+#specialLink:hover{
+    text-decoration:underline;
+}
+    
+		

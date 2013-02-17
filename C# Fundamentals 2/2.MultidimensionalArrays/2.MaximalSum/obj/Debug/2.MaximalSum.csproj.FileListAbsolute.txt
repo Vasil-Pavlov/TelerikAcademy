@@ -1,0 +1,5 @@
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\2.MultiDimensionalArra\1.MatrixA\2.MaximalSum\bin\Debug\2.MaximalSum.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\2.MultiDimensionalArra\1.MatrixA\2.MaximalSum\bin\Debug\2.MaximalSum.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\2.MultiDimensionalArra\1.MatrixA\2.MaximalSum\bin\Debug\2.MaximalSum.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\2.MultiDimensionalArra\1.MatrixA\2.MaximalSum\obj\Debug\2.MaximalSum.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\2.MultiDimensionalArra\1.MatrixA\2.MaximalSum\obj\Debug\2.MaximalSum.pdb

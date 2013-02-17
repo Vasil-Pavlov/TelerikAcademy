@@ -1,0 +1,5 @@
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\1.Arrays\1.Arrays\16.ParticularSubsetSum\bin\Debug\16.ParticularSubsetSum.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\1.Arrays\1.Arrays\16.ParticularSubsetSum\bin\Debug\16.ParticularSubsetSum.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\1.Arrays\1.Arrays\16.ParticularSubsetSum\bin\Debug\16.ParticularSubsetSum.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\1.Arrays\1.Arrays\16.ParticularSubsetSum\obj\Debug\16.ParticularSubsetSum.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\1.Arrays\1.Arrays\16.ParticularSubsetSum\obj\Debug\16.ParticularSubsetSum.pdb

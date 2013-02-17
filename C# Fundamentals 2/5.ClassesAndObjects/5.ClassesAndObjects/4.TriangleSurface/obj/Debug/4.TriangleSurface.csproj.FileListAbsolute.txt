@@ -1,0 +1,9 @@
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\5.ClassesAndObjects\4.TriangleSurface\bin\Debug\4.TriangleSurface.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\5.ClassesAndObjects\4.TriangleSurface\bin\Debug\4.TriangleSurface.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\5.ClassesAndObjects\4.TriangleSurface\bin\Debug\4.TriangleSurface.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\5.ClassesAndObjects\4.TriangleSurface\obj\Debug\4.TriangleSurface.csprojResolveAssemblyReference.cache
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\5.ClassesAndObjects\4.TriangleSurface\obj\Debug\4.TriangleSurface.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\5.ClassesAndObjects\4.TriangleSurface\obj\Debug\4.TriangleSurface.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\5.ClassesAndObjects\5.ClassesAndObjects\4.TriangleSurface\bin\Debug\4.TriangleSurface.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\5.ClassesAndObjects\5.ClassesAndObjects\4.TriangleSurface\obj\Debug\4.TriangleSurface.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\5.ClassesAndObjects\5.ClassesAndObjects\4.TriangleSurface\obj\Debug\4.TriangleSurface.pdb

@@ -1,0 +1,3 @@
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\8.StringAndTextProcessing\8.StringAndTextProcessing\bin\Debug\8.StringAndTextProcessing.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\8.StringAndTextProcessing\8.StringAndTextProcessing\obj\Debug\8.StringAndTextProcessing.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\8.StringAndTextProcessing\8.StringAndTextProcessing\obj\Debug\8.StringAndTextProcessing.pdb

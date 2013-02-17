@@ -1,0 +1,6 @@
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\6.ExceptionHandling\3.ReadFileContent\bin\Debug\3.ReadFileContent.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\6.ExceptionHandling\3.ReadFileContent\bin\Debug\3.ReadFileContent.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\6.ExceptionHandling\3.ReadFileContent\bin\Debug\3.ReadFileContent.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\6.ExceptionHandling\3.ReadFileContent\obj\Debug\3.ReadFileContent.csprojResolveAssemblyReference.cache
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\6.ExceptionHandling\3.ReadFileContent\obj\Debug\3.ReadFileContent.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\6.ExceptionHandling\3.ReadFileContent\obj\Debug\3.ReadFileContent.pdb

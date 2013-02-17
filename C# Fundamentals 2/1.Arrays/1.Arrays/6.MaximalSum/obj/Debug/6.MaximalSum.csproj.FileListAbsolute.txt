@@ -1,0 +1,9 @@
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\1.Arrays\6.MaximalSum\bin\Debug\6.MaximalSum.exe.config
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\1.Arrays\6.MaximalSum\bin\Debug\6.MaximalSum.exe
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\1.Arrays\6.MaximalSum\bin\Debug\6.MaximalSum.pdb
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\1.Arrays\6.MaximalSum\obj\Debug\6.MaximalSum.csprojResolveAssemblyReference.cache
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\1.Arrays\6.MaximalSum\obj\Debug\6.MaximalSum.exe
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\1.Arrays\6.MaximalSum\obj\Debug\6.MaximalSum.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\1.Arrays\1.Arrays\6.MaximalSum\bin\Debug\6.MaximalSum.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\1.Arrays\1.Arrays\6.MaximalSum\obj\Debug\6.MaximalSum.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\1.Arrays\1.Arrays\6.MaximalSum\obj\Debug\6.MaximalSum.pdb

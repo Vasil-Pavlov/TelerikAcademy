@@ -1,0 +1,5 @@
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\8.StringAndTextProcessing\23.ReplaceConsecutiveLetters\bin\Debug\23.ReplaceConsecutiveLetters.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\8.StringAndTextProcessing\23.ReplaceConsecutiveLetters\bin\Debug\23.ReplaceConsecutiveLetters.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\8.StringAndTextProcessing\23.ReplaceConsecutiveLetters\bin\Debug\23.ReplaceConsecutiveLetters.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\8.StringAndTextProcessing\23.ReplaceConsecutiveLetters\obj\Debug\23.ReplaceConsecutiveLetters.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\8.StringAndTextProcessing\23.ReplaceConsecutiveLetters\obj\Debug\23.ReplaceConsecutiveLetters.pdb

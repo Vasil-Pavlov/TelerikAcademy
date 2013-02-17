@@ -1,0 +1,5 @@
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\4.NumeralSystems\8.BinaryRepresantationOfAnInteger\bin\Debug\8.BinaryRepresantationOfAnInteger.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\4.NumeralSystems\8.BinaryRepresantationOfAnInteger\bin\Debug\8.BinaryRepresantationOfAnInteger.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\4.NumeralSystems\8.BinaryRepresantationOfAnInteger\bin\Debug\8.BinaryRepresantationOfAnInteger.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\4.NumeralSystems\8.BinaryRepresantationOfAnInteger\obj\Debug\8.BinaryRepresantationOfAnInteger.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\4.NumeralSystems\8.BinaryRepresantationOfAnInteger\obj\Debug\8.BinaryRepresantationOfAnInteger.pdb

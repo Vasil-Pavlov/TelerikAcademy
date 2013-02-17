@@ -1,0 +1,6 @@
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\1.Arrays\5.MaximalIncreasingSequence\bin\Debug\5.MaximalIncreasingSequence.exe.config
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\1.Arrays\5.MaximalIncreasingSequence\bin\Debug\5.MaximalIncreasingSequence.exe
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\1.Arrays\5.MaximalIncreasingSequence\bin\Debug\5.MaximalIncreasingSequence.pdb
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\1.Arrays\5.MaximalIncreasingSequence\obj\Debug\5.MaximalIncreasingSequence.exe
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\1.Arrays\5.MaximalIncreasingSequence\obj\Debug\5.MaximalIncreasingSequence.pdb
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\1.Arrays\5.MaximalIncreasingSequence\obj\Debug\5.MaximalIncreasingSequence.csprojResolveAssemblyReference.cache

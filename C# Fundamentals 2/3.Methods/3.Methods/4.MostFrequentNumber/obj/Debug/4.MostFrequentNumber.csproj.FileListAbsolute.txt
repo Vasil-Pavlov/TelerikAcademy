@@ -1,0 +1,5 @@
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\3.Methods\4.MostFrequentNumber\bin\Debug\4.MostFrequentNumber.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\3.Methods\4.MostFrequentNumber\bin\Debug\4.MostFrequentNumber.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\3.Methods\4.MostFrequentNumber\bin\Debug\4.MostFrequentNumber.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\3.Methods\4.MostFrequentNumber\obj\Debug\4.MostFrequentNumber.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\3.Methods\4.MostFrequentNumber\obj\Debug\4.MostFrequentNumber.pdb

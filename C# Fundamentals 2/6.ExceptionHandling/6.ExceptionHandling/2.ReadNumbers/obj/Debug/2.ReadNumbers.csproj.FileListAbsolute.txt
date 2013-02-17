@@ -1,0 +1,6 @@
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\6.ExceptionHandling\2.ReadNumbers\bin\Debug\2.ReadNumbers.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\6.ExceptionHandling\2.ReadNumbers\bin\Debug\2.ReadNumbers.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\6.ExceptionHandling\2.ReadNumbers\bin\Debug\2.ReadNumbers.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\6.ExceptionHandling\2.ReadNumbers\obj\Debug\2.ReadNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\6.ExceptionHandling\2.ReadNumbers\obj\Debug\2.ReadNumbers.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\6.ExceptionHandling\2.ReadNumbers\obj\Debug\2.ReadNumbers.pdb

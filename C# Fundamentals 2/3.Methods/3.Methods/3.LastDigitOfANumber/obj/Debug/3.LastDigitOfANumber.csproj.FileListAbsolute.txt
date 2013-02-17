@@ -1,0 +1,5 @@
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\3.Methods\3.LastDigitOfANumber\bin\Debug\3.LastDigitOfANumber.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\3.Methods\3.LastDigitOfANumber\bin\Debug\3.LastDigitOfANumber.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\3.Methods\3.LastDigitOfANumber\bin\Debug\3.LastDigitOfANumber.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\3.Methods\3.LastDigitOfANumber\obj\Debug\3.LastDigitOfANumber.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\3.Methods\3.Methods\3.LastDigitOfANumber\obj\Debug\3.LastDigitOfANumber.pdb

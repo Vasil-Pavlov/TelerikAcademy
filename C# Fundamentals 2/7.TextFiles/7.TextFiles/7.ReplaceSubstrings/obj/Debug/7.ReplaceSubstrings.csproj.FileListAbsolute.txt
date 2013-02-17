@@ -1,0 +1,5 @@
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\7.TextFiles\7.TextFiles\7.ReplaceSubstrings\bin\Debug\7.ReplaceSubstrings.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\7.TextFiles\7.TextFiles\7.ReplaceSubstrings\bin\Debug\7.ReplaceSubstrings.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\7.TextFiles\7.TextFiles\7.ReplaceSubstrings\bin\Debug\7.ReplaceSubstrings.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\7.TextFiles\7.TextFiles\7.ReplaceSubstrings\obj\Debug\7.ReplaceSubstrings.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\7.TextFiles\7.TextFiles\7.ReplaceSubstrings\obj\Debug\7.ReplaceSubstrings.pdb

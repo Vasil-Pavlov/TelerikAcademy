@@ -1,0 +1,6 @@
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\7.TextFiles\7.TextFiles\8.ReplaceWholeWords\bin\Debug\8.ReplaceWholeWords.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\7.TextFiles\7.TextFiles\8.ReplaceWholeWords\bin\Debug\8.ReplaceWholeWords.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\7.TextFiles\7.TextFiles\8.ReplaceWholeWords\bin\Debug\8.ReplaceWholeWords.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\7.TextFiles\7.TextFiles\8.ReplaceWholeWords\obj\Debug\8.ReplaceWholeWords.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\7.TextFiles\7.TextFiles\8.ReplaceWholeWords\obj\Debug\8.ReplaceWholeWords.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\7.TextFiles\7.TextFiles\8.ReplaceWholeWords\obj\Debug\8.ReplaceWholeWords.csprojResolveAssemblyReference.cache

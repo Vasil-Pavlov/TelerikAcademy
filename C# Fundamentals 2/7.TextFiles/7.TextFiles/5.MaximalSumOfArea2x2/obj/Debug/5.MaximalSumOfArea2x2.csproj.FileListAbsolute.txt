@@ -1,0 +1,5 @@
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\7.TextFiles\7.TextFiles\5.MaximalSumOfArea2x2\bin\Debug\5.MaximalSumOfArea2x2.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\7.TextFiles\7.TextFiles\5.MaximalSumOfArea2x2\bin\Debug\5.MaximalSumOfArea2x2.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\7.TextFiles\7.TextFiles\5.MaximalSumOfArea2x2\bin\Debug\5.MaximalSumOfArea2x2.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\7.TextFiles\7.TextFiles\5.MaximalSumOfArea2x2\obj\Debug\5.MaximalSumOfArea2x2.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\7.TextFiles\7.TextFiles\5.MaximalSumOfArea2x2\obj\Debug\5.MaximalSumOfArea2x2.pdb

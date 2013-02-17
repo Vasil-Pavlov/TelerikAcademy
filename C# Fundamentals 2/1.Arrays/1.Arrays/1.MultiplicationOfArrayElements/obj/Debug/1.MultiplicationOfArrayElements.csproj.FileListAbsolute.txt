@@ -1,0 +1,9 @@
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\1.Arrays\1.MultiplicationOfArrayElements\bin\Debug\1.MultiplicationOfArrayElements.exe.config
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\1.Arrays\1.MultiplicationOfArrayElements\bin\Debug\1.MultiplicationOfArrayElements.exe
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\1.Arrays\1.MultiplicationOfArrayElements\bin\Debug\1.MultiplicationOfArrayElements.pdb
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\1.Arrays\1.MultiplicationOfArrayElements\obj\Debug\1.MultiplicationOfArrayElements.csprojResolveAssemblyReference.cache
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\1.Arrays\1.MultiplicationOfArrayElements\obj\Debug\1.MultiplicationOfArrayElements.exe
+C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\1.Arrays\1.MultiplicationOfArrayElements\obj\Debug\1.MultiplicationOfArrayElements.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\1.Arrays\1.Arrays\1.MultiplicationOfArrayElements\bin\Debug\1.MultiplicationOfArrayElements.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\1.Arrays\1.Arrays\1.MultiplicationOfArrayElements\obj\Debug\1.MultiplicationOfArrayElements.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\1.Arrays\1.Arrays\1.MultiplicationOfArrayElements\obj\Debug\1.MultiplicationOfArrayElements.pdb

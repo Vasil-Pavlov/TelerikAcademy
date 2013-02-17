@@ -1,0 +1,103 @@
+body, h1, ul, li {
+    margin: 0;
+    padding: 0;
+    font: 15px/1.2 Tahoma, sans-serif;
+    font-weight: normal;
+}
+
+img {
+    border: none; 
+}
+
+body {
+    margin: 15px auto 0; /* Center */
+    width: 598px;
+    border: 5px solid #ddd;
+    border-radius: 3px;
+    background: #aaa;
+    box-shadow: 1px 1px 6px #444;
+}
+
+a {
+    color: #A5AFB3;
+    text-decoration: none;
+}
+
+.menu {
+    position: relative; 
+    overflow: hidden; 
+    height: 290px; 
+    background: #1E3741;
+}
+
+.article {
+ float: left; 
+} 
+
+.title a {
+    display: block;
+    padding: 5px 15px;
+    background: #4B5F67;
+    color: #93ACB6;
+}
+.article:not(:last-child) .title a {
+    border-right: 1px solid #1E3741; 
+}
+
+.title a {
+    position: relative;
+    z-index: 1;
+}
+.article:first-child .title a::after {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    width: 598px;
+    height: 100%;
+    content: " ";
+}
+
+.content {
+    top: 28px;
+    left: 0;
+    width: 100%;
+}
+
+.menu:not(:hover) .item:first-child a, .item:hover a,
+.title:hover ~ .content .item:first-child a {
+    background: #00968C;
+    color: #fff;
+}
+
+.menu:not(:hover) .item:first-child img, .item:hover img,
+.title:hover ~ .content .tab-item:first-child img,
+.menu:not(:hover) .article:first-child .content, .article:hover .content {
+    z-index: 1;
+    opacity: 1;
+}
+
+.item img {
+    top: 0;
+    right: 0;
+}
+
+.content, .item img {
+    position: absolute;
+    z-index: -1;
+    opacity: 0;
+}
+
+.item a {
+    display: block;
+    padding: 5px 10px;
+    width: 180px;
+}
+.item:not(:last-child) a {
+    border-bottom: 1px solid #3A4F58; 
+}
+
+.menu:not(:hover) .article:first-child .title a, .article:hover .title a {
+    background: transparent;
+    color: #fff;
+}

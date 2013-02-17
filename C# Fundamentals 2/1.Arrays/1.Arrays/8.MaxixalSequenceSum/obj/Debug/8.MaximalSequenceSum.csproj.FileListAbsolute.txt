@@ -1,0 +1,6 @@
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\1.Arrays\1.Arrays\8.MaxixalSequenceSum\bin\Debug\8.MaxixalSequenceSum.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\1.Arrays\1.Arrays\8.MaxixalSequenceSum\bin\Debug\8.MaxixalSequenceSum.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\1.Arrays\1.Arrays\8.MaxixalSequenceSum\bin\Debug\8.MaxixalSequenceSum.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\1.Arrays\1.Arrays\8.MaxixalSequenceSum\obj\Debug\8.MaximalSequenceSum.csprojResolveAssemblyReference.cache
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\1.Arrays\1.Arrays\8.MaxixalSequenceSum\obj\Debug\8.MaxixalSequenceSum.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\1.Arrays\1.Arrays\8.MaxixalSequenceSum\obj\Debug\8.MaxixalSequenceSum.pdb

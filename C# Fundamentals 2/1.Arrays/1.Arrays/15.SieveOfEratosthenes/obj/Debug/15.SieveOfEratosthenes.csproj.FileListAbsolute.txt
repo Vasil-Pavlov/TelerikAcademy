@@ -1,0 +1,5 @@
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\1.Arrays\1.Arrays\15.SieveOfEratosthenes\bin\Debug\15.SieveOfEratosthenes.exe.config
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\1.Arrays\1.Arrays\15.SieveOfEratosthenes\bin\Debug\15.SieveOfEratosthenes.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\1.Arrays\1.Arrays\15.SieveOfEratosthenes\bin\Debug\15.SieveOfEratosthenes.pdb
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\1.Arrays\1.Arrays\15.SieveOfEratosthenes\obj\Debug\15.SieveOfEratosthenes.exe
+C:\Users\Vaskata9540\Desktop\TelerikAcademy\C# Fundamentals\Second Part\Homeworks\1.Arrays\1.Arrays\15.SieveOfEratosthenes\obj\Debug\15.SieveOfEratosthenes.pdb
