@@ -1,6 +1,0 @@
-C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\3.Operators-Expressions\12.ExchangingBits\bin\Debug\12.ExchangingBits.exe.config
-C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\3.Operators-Expressions\12.ExchangingBits\bin\Debug\12.ExchangingBits.exe
-C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\3.Operators-Expressions\12.ExchangingBits\bin\Debug\12.ExchangingBits.pdb
-C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\3.Operators-Expressions\12.ExchangingBits\obj\Debug\12.ExchangingBits.csprojResolveAssemblyReference.cache
-C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\3.Operators-Expressions\12.ExchangingBits\obj\Debug\12.ExchangingBits.exe
-C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\3.Operators-Expressions\12.ExchangingBits\obj\Debug\12.ExchangingBits.pdb

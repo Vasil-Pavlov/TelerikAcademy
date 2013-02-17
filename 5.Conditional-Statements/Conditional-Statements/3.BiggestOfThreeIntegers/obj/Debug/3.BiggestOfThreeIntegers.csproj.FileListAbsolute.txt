@@ -1,6 +1,0 @@
-C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\5.Conditional-Statements\Conditional-Statements\3.BiggestOfThreeIntegers\bin\Debug\3.BiggestOfThreeIntegers.exe.config
-C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\5.Conditional-Statements\Conditional-Statements\3.BiggestOfThreeIntegers\bin\Debug\3.BiggestOfThreeIntegers.exe
-C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\5.Conditional-Statements\Conditional-Statements\3.BiggestOfThreeIntegers\bin\Debug\3.BiggestOfThreeIntegers.pdb
-C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\5.Conditional-Statements\Conditional-Statements\3.BiggestOfThreeIntegers\obj\Debug\3.BiggestOfThreeIntegers.csprojResolveAssemblyReference.cache
-C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\5.Conditional-Statements\Conditional-Statements\3.BiggestOfThreeIntegers\obj\Debug\3.BiggestOfThreeIntegers.exe
-C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\5.Conditional-Statements\Conditional-Statements\3.BiggestOfThreeIntegers\obj\Debug\3.BiggestOfThreeIntegers.pdb

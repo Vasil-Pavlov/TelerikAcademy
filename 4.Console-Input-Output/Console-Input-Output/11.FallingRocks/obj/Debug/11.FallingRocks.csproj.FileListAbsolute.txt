@@ -1,6 +1,0 @@
-C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\4.Console-Input-Output\Console-Input-Output\11.FallingRocks\bin\Debug\11.FallingRocks.exe.config
-C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\4.Console-Input-Output\Console-Input-Output\11.FallingRocks\bin\Debug\11.FallingRocks.exe
-C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\4.Console-Input-Output\Console-Input-Output\11.FallingRocks\bin\Debug\11.FallingRocks.pdb
-C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\4.Console-Input-Output\Console-Input-Output\11.FallingRocks\obj\Debug\11.FallingRocks.csprojResolveAssemblyReference.cache
-C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\4.Console-Input-Output\Console-Input-Output\11.FallingRocks\obj\Debug\11.FallingRocks.exe
-C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\4.Console-Input-Output\Console-Input-Output\11.FallingRocks\obj\Debug\11.FallingRocks.pdb

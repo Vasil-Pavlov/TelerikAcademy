@@ -1,6 +1,0 @@
-C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\6.Loops\5.MoreComplexFactorialDivision\bin\Debug\5.MoreComplexFactorialDivision.exe.config
-C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\6.Loops\5.MoreComplexFactorialDivision\bin\Debug\5.MoreComplexFactorialDivision.exe
-C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\6.Loops\5.MoreComplexFactorialDivision\bin\Debug\5.MoreComplexFactorialDivision.pdb
-C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\6.Loops\5.MoreComplexFactorialDivision\obj\Debug\5.MoreComplexFactorialDivision.csprojResolveAssemblyReference.cache
-C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\6.Loops\5.MoreComplexFactorialDivision\obj\Debug\5.MoreComplexFactorialDivision.exe
-C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\6.Loops\6.Loops\5.MoreComplexFactorialDivision\obj\Debug\5.MoreComplexFactorialDivision.pdb

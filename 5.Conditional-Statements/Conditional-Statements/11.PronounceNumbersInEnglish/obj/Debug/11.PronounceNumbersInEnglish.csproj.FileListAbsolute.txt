@@ -1,6 +1,0 @@
-C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\5.Conditional-Statements\Conditional-Statements\11.PronounceNumbersInEnglish\bin\Debug\11.PronounceNumbersInEnglish.exe.config
-C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\5.Conditional-Statements\Conditional-Statements\11.PronounceNumbersInEnglish\bin\Debug\11.PronounceNumbersInEnglish.exe
-C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\5.Conditional-Statements\Conditional-Statements\11.PronounceNumbersInEnglish\bin\Debug\11.PronounceNumbersInEnglish.pdb
-C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\5.Conditional-Statements\Conditional-Statements\11.PronounceNumbersInEnglish\obj\Debug\11.PronounceNumbersInEnglish.csprojResolveAssemblyReference.cache
-C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\5.Conditional-Statements\Conditional-Statements\11.PronounceNumbersInEnglish\obj\Debug\11.PronounceNumbersInEnglish.exe
-C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\5.Conditional-Statements\Conditional-Statements\11.PronounceNumbersInEnglish\obj\Debug\11.PronounceNumbersInEnglish.pdb

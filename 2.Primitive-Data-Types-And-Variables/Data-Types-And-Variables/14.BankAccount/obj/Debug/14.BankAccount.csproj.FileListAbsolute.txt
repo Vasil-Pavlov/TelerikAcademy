@@ -1,6 +1,0 @@
-C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\Primitive-Data-Types-And-Variables\Data-Types-And-Variables\14.BankAccount\bin\Debug\14.BankAccount.exe.config
-C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\Primitive-Data-Types-And-Variables\Data-Types-And-Variables\14.BankAccount\bin\Debug\14.BankAccount.exe
-C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\Primitive-Data-Types-And-Variables\Data-Types-And-Variables\14.BankAccount\bin\Debug\14.BankAccount.pdb
-C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\Primitive-Data-Types-And-Variables\Data-Types-And-Variables\14.BankAccount\obj\Debug\14.BankAccount.csprojResolveAssemblyReference.cache
-C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\Primitive-Data-Types-And-Variables\Data-Types-And-Variables\14.BankAccount\obj\Debug\14.BankAccount.exe
-C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\Primitive-Data-Types-And-Variables\Data-Types-And-Variables\14.BankAccount\obj\Debug\14.BankAccount.pdb

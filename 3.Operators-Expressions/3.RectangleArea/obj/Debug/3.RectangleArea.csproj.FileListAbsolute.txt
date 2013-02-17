@@ -1,5 +1,0 @@
-C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\3.Operators-Expressions\3.RectangleArea\bin\Debug\3.RectangleArea.exe.config
-C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\3.Operators-Expressions\3.RectangleArea\bin\Debug\3.RectangleArea.exe
-C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\3.Operators-Expressions\3.RectangleArea\bin\Debug\3.RectangleArea.pdb
-C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\3.Operators-Expressions\3.RectangleArea\obj\Debug\3.RectangleArea.exe
-C:\Users\Vaskata9540\Desktop\C# Fundamentals\First Part\Homeworks\3.Operators-Expressions\3.RectangleArea\obj\Debug\3.RectangleArea.pdb
